@@ -7,7 +7,7 @@
 </div>
 
 <div class="container-image>
-  <img src="./previews/nlw_spacetime.png" alt="Screenshot do projeto" width="100%">
+  <img src="previews\nlw_spacetime.png" alt="Screenshot do projeto" width="100%">
 </div>
 
 <p>O <em>deploy</em> desse projeto pode ser visto <a href="#">aqui</a>.</p>
