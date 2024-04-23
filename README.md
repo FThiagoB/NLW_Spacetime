@@ -1,4 +1,4 @@
-<h1>>NLW Spacetime</h1>
+<h1>NLW Spacetime</h1>
 
 <div class="shields" style="text-align: center;">
   <img src="https://img.shields.io/github/last-commit/FThiagoB/NLW_Spacetime?color=996DFF" alt="último commit">
