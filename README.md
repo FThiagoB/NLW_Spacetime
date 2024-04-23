@@ -1,10 +1,10 @@
 <style>
   h1, .shields{
-    text-align: center;
+    
   }
 
   h1{
-    margin:10px;
+    
   }
 
   .shields{
@@ -22,9 +22,9 @@
   }
 </style>
 
-<h1>NLW Spacetime</h1>
+<h1 style="text-align: center; margin:10px;">NLW Spacetime</h1>
 
-<div class="shields">
+<div class="shields" style="text-align: center;">
   <img src="https://img.shields.io/github/last-commit/FThiagoB/NLW_Spacetime?color=996DFF" alt="último commit">
   <img src="https://img.shields.io/github/repo-size/FThiagoB/NLW_Spacetime?color=996DFF" alt="tamanho do repositório">
   <img src="https://img.shields.io/github/license/FThiagoB/NLW_Spacetime?color=996DFF" alt="tipo de licença">
